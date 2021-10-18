@@ -6,6 +6,8 @@ authors = ["Daniel Dills <dills253@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pytest = "^6.2.5"
+black = "^21.9b0"
 
 [tool.poetry.dev-dependencies]
 
